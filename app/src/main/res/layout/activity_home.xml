@@ -74,7 +74,7 @@
             android:layout_height="50dp"
             android:layout_below="@+id/lat"
             android:layout_marginTop="10dp"
-            android:hint="Latitude"
+            android:hint="Longitude"
             android:padding="10dp"
             android:textColor="@color/cast_expanded_controller_background_color"
             android:textSize="24dp" />
